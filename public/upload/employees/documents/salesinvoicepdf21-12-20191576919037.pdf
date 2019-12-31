@@ -1,0 +1,659 @@
+%PDF-1.3
+1 0 obj
+<<
+/Producer ()
+/Author ()
+/CreationDate (D:20090418194627)
+/Creator ()
+/Keywords ()
+/Subject ()
+/Title (Sales Invoice )
+/ModDate ()
+>>
+endobj
+
+2 0 obj
+<< /Length 3 0 R
+ >>
+stream
+q 0.000 0.000 1.000 rg 
+%DEBUT_TEXT/%
+BT
+141.73 785.20 Td
+/F5 15.00 Tf
+(Green Valley Real Estate Broker - Dubai) Tj
+ET
+Q
+%FIN_TEXT/%
+%DEBUT_LN/%
+[453 226 ] 0 d
+56.69 779.53 m
+992.13 779.53 l
+0 G
+0.00 w S
+%FIN_LN/%
+q 0.000 0.000 1.000 rg 
+%DEBUT_TEXT/%
+BT
+56.69 756.85 Td
+/F5 8.00 Tf
+(Custmoer Code :) Tj
+ET
+Q
+%FIN_TEXT/%
+q 0.000 0.000 1.000 rg 
+%DEBUT_TEXT/%
+BT
+127.56 756.85 Td
+/F5 8.00 Tf
+(2) Tj
+ET
+Q
+%FIN_TEXT/%
+q 0.000 0.000 1.000 rg 
+%DEBUT_TEXT/%
+BT
+453.54 756.85 Td
+/F5 8.00 Tf
+(Invoice No. :) Tj
+ET
+Q
+%FIN_TEXT/%
+q 0.000 0.000 1.000 rg 
+%DEBUT_TEXT/%
+BT
+510.24 756.85 Td
+/F5 8.00 Tf
+(8) Tj
+ET
+Q
+%FIN_TEXT/%
+q 0.000 0.000 1.000 rg 
+%DEBUT_TEXT/%
+BT
+56.69 742.68 Td
+/F5 8.00 Tf
+(Customer Name:) Tj
+ET
+Q
+%FIN_TEXT/%
+q 0.000 0.000 1.000 rg 
+%DEBUT_TEXT/%
+BT
+127.56 742.68 Td
+/F5 8.00 Tf
+(Krishna) Tj
+ET
+Q
+%FIN_TEXT/%
+q 0.000 0.000 1.000 rg 
+%DEBUT_TEXT/%
+BT
+453.54 742.68 Td
+/F5 8.00 Tf
+(Invoice Dt. :) Tj
+ET
+Q
+%FIN_TEXT/%
+q 0.000 0.000 1.000 rg 
+%DEBUT_TEXT/%
+BT
+510.24 742.68 Td
+/F5 8.00 Tf
+(16/04/2009) Tj
+ET
+Q
+%FIN_TEXT/%
+q 0.000 0.000 0.000 rg 
+%DEBUT_TEXT/%
+BT
+255.12 728.50 Td
+/F5 8.00 Tf
+(Cash Sale) Tj
+ET
+Q
+%FIN_TEXT/%
+%DEBUT_LN/%
+[453 226 ] 0 d
+56.69 722.83 m
+992.13 722.83 l
+0 G
+0.00 w S
+%FIN_LN/%
+%DEBUT_LNH/%
+[453 226 ] 0 d
+56.69 722.83 m
+510.24 722.83 l
+0 G
+0.00 w S
+%FIN_LNH/%
+%DEBUT_LNV/%
+[453 226 ] 0 d
+56.69 722.83 m
+56.69 212.60 l
+0 G
+0.00 w S
+%FIN_LNV/%
+%DEBUT_LNV/%
+[453 226 ] 0 d
+510.24 722.83 m
+510.24 212.60 l
+0 G
+0.00 w S
+%FIN_LNV/%
+%DEBUT_LNV/%
+[453 226 ] 0 d
+113.39 722.83 m
+113.39 212.60 l
+0 G
+0.00 w S
+%FIN_LNV/%
+%DEBUT_LNV/%
+[453 226 ] 0 d
+340.16 722.83 m
+340.16 212.60 l
+0 G
+0.00 w S
+%FIN_LNV/%
+%DEBUT_LNV/%
+[453 226 ] 0 d
+396.85 722.83 m
+396.85 212.60 l
+0 G
+0.00 w S
+%FIN_LNV/%
+%DEBUT_LNV/%
+[453 226 ] 0 d
+453.54 722.83 m
+453.54 212.60 l
+0 G
+0.00 w S
+%FIN_LNV/%
+%DEBUT_LNH/%
+[453 226 ] 0 d
+56.69 700.16 m
+510.24 700.16 l
+0 G
+0.00 w S
+%FIN_LNH/%
+q 0.000 0.000 0.000 rg 
+%DEBUT_TEXT/%
+BT
+62.36 714.33 Td
+/F5 8.00 Tf
+(Item Code) Tj
+ET
+Q
+%FIN_TEXT/%
+q 0.000 0.000 0.000 rg 
+%DEBUT_TEXT/%
+BT
+147.40 714.33 Td
+/F5 8.00 Tf
+(Item Description) Tj
+ET
+Q
+%FIN_TEXT/%
+q 0.000 0.000 0.000 rg 
+%DEBUT_TEXT/%
+BT
+342.99 714.33 Td
+/F5 8.00 Tf
+(Quantity) Tj
+ET
+Q
+%FIN_TEXT/%
+q 0.000 0.000 0.000 rg 
+%DEBUT_TEXT/%
+BT
+399.69 714.33 Td
+/F5 8.00 Tf
+(Price Each) Tj
+ET
+Q
+%FIN_TEXT/%
+q 0.000 0.000 0.000 rg 
+%DEBUT_TEXT/%
+BT
+456.38 714.33 Td
+/F5 8.00 Tf
+(Amount) Tj
+ET
+Q
+%FIN_TEXT/%
+%DEBUT_LNH/%
+[453 226 ] 0 d
+56.69 269.29 m
+510.24 269.29 l
+0 G
+0.00 w S
+%FIN_LNH/%
+q 0.000 0.000 0.000 rg 
+%DEBUT_TEXT/%
+BT
+62.36 691.65 Td
+/F5 8.00 Tf
+(2) Tj
+ET
+Q
+%FIN_TEXT/%
+q 0.000 0.000 0.000 rg 
+%DEBUT_TEXT/%
+BT
+147.40 691.65 Td
+/F5 8.00 Tf
+(Coca Cola) Tj
+ET
+Q
+%FIN_TEXT/%
+q 0.000 0.000 0.000 rg 
+%DEBUT_TEXT/%
+BT
+342.99 691.65 Td
+/F5 8.00 Tf
+(5.00) Tj
+ET
+Q
+%FIN_TEXT/%
+q 0.000 0.000 0.000 rg 
+%DEBUT_TEXT/%
+BT
+399.69 691.65 Td
+/F5 8.00 Tf
+(10.00) Tj
+ET
+Q
+%FIN_TEXT/%
+q 0.000 0.000 0.000 rg 
+%DEBUT_TEXT/%
+BT
+456.38 691.65 Td
+/F5 8.00 Tf
+(50.00) Tj
+ET
+Q
+%FIN_TEXT/%
+q 0.000 0.000 0.000 rg 
+%DEBUT_TEXT/%
+BT
+62.36 677.48 Td
+/F5 8.00 Tf
+(1) Tj
+ET
+Q
+%FIN_TEXT/%
+q 0.000 0.000 0.000 rg 
+%DEBUT_TEXT/%
+BT
+147.40 677.48 Td
+/F5 8.00 Tf
+(Pepsi) Tj
+ET
+Q
+%FIN_TEXT/%
+q 0.000 0.000 0.000 rg 
+%DEBUT_TEXT/%
+BT
+342.99 677.48 Td
+/F5 8.00 Tf
+(3.00) Tj
+ET
+Q
+%FIN_TEXT/%
+q 0.000 0.000 0.000 rg 
+%DEBUT_TEXT/%
+BT
+399.69 677.48 Td
+/F5 8.00 Tf
+(2.00) Tj
+ET
+Q
+%FIN_TEXT/%
+q 0.000 0.000 0.000 rg 
+%DEBUT_TEXT/%
+BT
+456.38 677.48 Td
+/F5 8.00 Tf
+(6.00) Tj
+ET
+Q
+%FIN_TEXT/%
+q 0.000 0.000 0.000 rg 
+%DEBUT_TEXT/%
+BT
+62.36 663.31 Td
+/F5 8.00 Tf
+(3) Tj
+ET
+Q
+%FIN_TEXT/%
+q 0.000 0.000 0.000 rg 
+%DEBUT_TEXT/%
+BT
+147.40 663.31 Td
+/F5 8.00 Tf
+(Pepsi 1 Ltr) Tj
+ET
+Q
+%FIN_TEXT/%
+q 0.000 0.000 0.000 rg 
+%DEBUT_TEXT/%
+BT
+342.99 663.31 Td
+/F5 8.00 Tf
+(4.00) Tj
+ET
+Q
+%FIN_TEXT/%
+q 0.000 0.000 0.000 rg 
+%DEBUT_TEXT/%
+BT
+399.69 663.31 Td
+/F5 8.00 Tf
+(3.00) Tj
+ET
+Q
+%FIN_TEXT/%
+q 0.000 0.000 0.000 rg 
+%DEBUT_TEXT/%
+BT
+456.38 663.31 Td
+/F5 8.00 Tf
+(12.00) Tj
+ET
+Q
+%FIN_TEXT/%
+q 0.000 0.000 0.000 rg 
+%DEBUT_TEXT/%
+BT
+405.35 252.28 Td
+/F5 8.00 Tf
+(Total ) Tj
+ET
+Q
+%FIN_TEXT/%
+q 0.000 0.000 0.000 rg 
+%DEBUT_TEXT/%
+BT
+464.88 252.28 Td
+/F5 8.00 Tf
+(68.00) Tj
+ET
+Q
+%FIN_TEXT/%
+q 0.000 0.000 0.000 rg 
+%DEBUT_TEXT/%
+BT
+405.35 238.11 Td
+/F5 8.00 Tf
+(Discount ) Tj
+ET
+Q
+%FIN_TEXT/%
+q 0.000 0.000 0.000 rg 
+%DEBUT_TEXT/%
+BT
+464.88 238.11 Td
+/F5 8.00 Tf
+(0.00) Tj
+ET
+Q
+%FIN_TEXT/%
+q 0.000 0.000 0.000 rg 
+%DEBUT_TEXT/%
+BT
+405.35 218.27 Td
+/F5 8.00 Tf
+(Net Amount ) Tj
+ET
+Q
+%FIN_TEXT/%
+q 0.000 0.000 0.000 rg 
+%DEBUT_TEXT/%
+BT
+464.88 218.27 Td
+/F5 8.00 Tf
+(68.00) Tj
+ET
+Q
+%FIN_TEXT/%
+%DEBUT_LNH/%
+[453 226 ] 0 d
+396.85 215.43 m
+510.24 215.43 l
+0 G
+0.00 w S
+%FIN_LNH/%
+%DEBUT_LNH/%
+[453 226 ] 0 d
+405.35 215.43 m
+518.74 215.43 l
+0 G
+0.00 w S
+%FIN_LNH/%
+endstream
+endobj
+
+3 0 obj
+5117
+endobj
+
+4 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F1
+/BaseFont /Courier-Bold
+/Encoding /WinAnsiEncoding
+>>
+endobj
+
+5 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F2
+/BaseFont /Courier-BoldOblique
+/Encoding /WinAnsiEncoding
+>>
+endobj
+
+6 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F3
+/BaseFont /Courier-Oblique
+/Encoding /WinAnsiEncoding
+>>
+endobj
+
+7 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F4
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+>>
+endobj
+
+8 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F5
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+>>
+endobj
+
+9 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F6
+/BaseFont /Helvetica-BoldOblique
+/Encoding /WinAnsiEncoding
+>>
+endobj
+
+10 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F7
+/BaseFont /Helvetica-Oblique
+/Encoding /WinAnsiEncoding
+>>
+endobj
+
+11 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F8
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+>>
+endobj
+
+12 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F9
+/BaseFont /Symbol
+/Encoding /WinAnsiEncoding
+>>
+endobj
+
+13 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F10
+/BaseFont /Times-Bold
+/Encoding /WinAnsiEncoding
+>>
+endobj
+
+14 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F11
+/BaseFont /Times-BoldItalic
+/Encoding /WinAnsiEncoding
+>>
+endobj
+
+15 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F12
+/BaseFont /Times-Italic
+/Encoding /WinAnsiEncoding
+>>
+endobj
+
+16 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F13
+/BaseFont /Times-Roman
+/Encoding /WinAnsiEncoding
+>>
+endobj
+
+17 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F14
+/BaseFont /ZapfDingbats
+/Encoding /WinAnsiEncoding
+>>
+endobj
+
+17 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F14
+/BaseFont /ZapfDingbats
+/Encoding /WinAnsiEncoding
+>>
+endobj
+%DEBUT_OBJ/%
+18 0 obj
+<< /Type /Pages
+/Kids [
+20 0 R
+]
+/Count 1
+>>
+endobj
+
+19 0 obj
+<< /ProcSet [ /PDF /Text /ImageC]
+/XObject << 
+>>
+/Font << 
+/F1 4 0 R 
+/F2 5 0 R 
+/F3 6 0 R 
+/F4 7 0 R 
+/F5 8 0 R 
+/F6 9 0 R 
+/F7 10 0 R 
+/F8 11 0 R 
+/F9 12 0 R 
+/F10 13 0 R 
+/F11 14 0 R 
+/F12 15 0 R 
+/F13 16 0 R 
+/F14 17 0 R 
+>>
+>>
+endobj
+
+20 0 obj
+<< /Type /Page
+/Parent 18 0 R
+/MediaBox [ 0 0 595.28 841.89]
+/Resources 19 0 R
+/Contents 2 0 R
+>>
+endobj
+%FIN_OBJ/%
+
+21 0 obj
+<<
+/Type /Catalog
+/Pages 18 0 R
+/OpenAction [3 0 R /Fit]
+/PageLayout /SinglePage
+>>
+endobj
+
+xref
+0 22
+0000000000 65535 f
+0000000008 00000 n
+0000000171 00000 n
+0000005347 00000 n
+0000005370 00000 n
+0000005488 00000 n
+0000005613 00000 n
+0000005734 00000 n
+0000005847 00000 n
+0000005967 00000 n
+0000006094 00000 n
+0000006218 00000 n
+0000006334 00000 n
+0000006447 00000 n
+0000006565 00000 n
+0000006689 00000 n
+0000006809 00000 n
+0000006928 00000 n
+0000007048 00000 n
+0000007251 00000 n
+0000007522 00000 n
+0000007656 00000 n
+trailer
+<< /Size 22
+/Root 21 0 R
+/Info 1 0 R
+>>
+startxref
+7764
+
+%%EOF
